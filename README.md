@@ -1,2 +1,9 @@
 # walkthru2
-walkthru2 for fast.ai course
+Sample repo for walkthru2 for fast.ai course.
+
+## A Heading
+
+## More Details
+
+- Item 1
+- Item 2
